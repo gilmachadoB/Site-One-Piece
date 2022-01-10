@@ -55,7 +55,7 @@ body{
 .conteudo {
     margin-bottom:48px;
     border-top: 0.4px solid;
-    background-image: url("/imagens/sunny.jpg"); 
+    background-image: url("https://raw.githubusercontent.com/gilmachadoB/Site-One-Piece/master/imagens/sunny.jpg"); 
     height: 950px;
 }
 
